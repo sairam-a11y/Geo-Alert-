@@ -20,4 +20,13 @@ early warnings for floods, accidents, and animal trespassing.
 
 ## 🔒 Source Code
 The source code is private for security and production reasons.
+## 📸 Screenshots
+
+![Dashboard](./dashboard.png)
+![Live Map](./Live%20map.png)
+![Alert](./Alert.png)
+![AI Centered](./AI%20centered.png)
+![Statistics](./statistics.png)
+
+
 
