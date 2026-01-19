@@ -20,4 +20,4 @@ early warnings for floods, accidents, and animal trespassing.
 
 ## 🔒 Source Code
 The source code is private for security and production reasons.
-![Dashboard](./dashboard.png)
+
